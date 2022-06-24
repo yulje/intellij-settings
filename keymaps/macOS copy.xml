@@ -1,9 +1,0 @@
-<keymap version="1" name="macOS copy" parent="Mac OS X 10.5+">
-  <action id="ActivateCommitToolWindow" />
-  <action id="ActivateTerminalToolWindow">
-    <keyboard-shortcut first-keystroke="meta 0" />
-  </action>
-  <action id="Adtui.ZoomToActualAction">
-    <keyboard-shortcut first-keystroke="meta numpad0" />
-  </action>
-</keymap>
