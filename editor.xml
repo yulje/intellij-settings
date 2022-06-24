@@ -1,4 +1,11 @@
 <application>
+  <component name="CodeVisionSettings">
+    <option name="disabledCodeVisionProviderIds">
+      <set>
+        <option value="vcs.code.vision" />
+      </set>
+    </option>
+  </component>
   <component name="TodoConfiguration">
     <pattern useCustomColors="true" pattern="\btodo\b.*">
       <option name="FOREGROUND" value="59d316" />
